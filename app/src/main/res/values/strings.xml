@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bio</string>
+    <string name="prompt_info_title">Sample App Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">Sample App is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="secret_key_name">Some secret key</string>
+</resources>
